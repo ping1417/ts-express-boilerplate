@@ -1,0 +1,8 @@
+{
+    "authOptions": {
+        "issuerBaseURL": "test.com",
+        "audience": "test.com",
+        "authRequired": false
+    },
+    "bucketName": ""
+}

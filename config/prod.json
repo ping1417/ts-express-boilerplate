@@ -1,0 +1,8 @@
+{
+    "authOptions": {
+        "issuerBaseURL": "test.com",
+        "audience": "test.com",
+        "tokenSigningAlg": "RS256"
+    },
+    "bucketName": ""
+}

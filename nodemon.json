@@ -1,0 +1,6 @@
+{
+    "watch": ["src"],
+    "ext": "ts,json",
+    "ignore": ["src/**/*.spec.ts", "node_modules"],
+    "exec": "cross-env ENV=local node -r ts-node/register src/main.ts"
+}

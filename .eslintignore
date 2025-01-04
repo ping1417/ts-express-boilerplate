@@ -1,0 +1,5 @@
+.eslintcache
+.vscode
+jest.config.js
+node_modules
+.eslintrc.js
